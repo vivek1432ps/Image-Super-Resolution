@@ -1,8 +1,9 @@
 torch
- torchvision
- basicsr
- facexlib
- gfpgan
- realesrgan
- opencv-python
- pillow
+torchvision
+basicsr
+facexlib
+gfpgan
+realesrgan
+opencv-python
+pillow
+numpy
