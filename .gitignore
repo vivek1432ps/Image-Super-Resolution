@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+weights/*.pth
+inputs/*
+outputs/*
+screenshots/*
+!.gitkeep
+.DS_Store
