@@ -1,0 +1,8 @@
+torch
+ torchvision
+ basicsr
+ facexlib
+ gfpgan
+ realesrgan
+ opencv-python
+ pillow
